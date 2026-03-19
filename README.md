@@ -1,2 +1,2 @@
 # Pokedex
-É apenas um inicio de um sonho
+um mini projetinho 
